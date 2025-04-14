@@ -16,7 +16,7 @@ Welcome to my GitHub profile! 🚀 I'm a computer science student with a passion
 
 ## 📖 My Projects
 
-Here are some highlights from my portfolio:
+**Here are some highlights from my portfolio:**
 
 - 📂 **Multigaming(#):** The project consists in making several games, all accessible from a menu with a score display for each game.
 🔍 More coming soon! / D'autres à venir !
@@ -25,7 +25,8 @@ Here are some highlights from my portfolio:
 
 ---
 
-🛠️ **Skills & Technologies / Compétences & Technologies**
+## 🛠️ Skills & Technologies / Compétences & Technologies
+
 💻 **Languages / Langages:** Python, Java, C, HTML/CSS
 
 🛠️ **Tools / Outils:** Git, VS Code, Eclipse
@@ -34,7 +35,7 @@ Here are some highlights from my portfolio:
 
 ---
 
-📫 **How to reach me / Comment me contacter :**
+## 📫 How to reach me / Comment me contacter :
 
 ✉️ **Email:** martybenjamin75@gmail.com
 
