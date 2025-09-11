@@ -19,23 +19,28 @@ Welcome to my GitHub profile! 🚀 I'm a computer science student with a passion
 **Here are some highlights from my portfolio:**
 
 - 📂 **Multigaming(#):** The project consists in making several games, all accessible from a menu with a score display for each game.
-🔍 More coming soon! / D'autres à venir !
+- 📂 **Jeux Latice(#):** The project consists of creating a Hawaiian board game, initially in a console version, and then converting it to a JavaFX version.
+- 📂 **Network Project with Kathará** Simulation of a network with subnets and services (DHCP, DNS, FTP, SSH) with traffic analysis using Wireshark.
+- 📂 **Database Visualization** SQL queries, data analysis, and graphical representation.
+ 
 
-- 🔍 More coming soon! / D'autres à venir !
-
----
-
-## 🛠️ Skills & Technologies / Compétences & Technologies
-
-💻 **Languages / Langages:** Python, Java, C, HTML/CSS
-
-🛠️ **Tools / Outils:** Git, VS Code, Eclipse
-
-📚 **Interests / Centres d'intérêt:** AI, Game Dev, Web Development
+- 🔍 More coming soon! 
 
 ---
 
-## 📫 How to reach me / Comment me contacter :
+## 🛠️ Skills & Technologies
+
+💻 **Languages:** Python, Java, C, HTML/CSS
+
+🛠️ **Tools:** Git, VS Code, Eclipse
+
+**Other:** SQL, PostgreSQL, JavaFX, Kathará, Linux  
+
+📚 **Interests:** AI, Game Dev, Web Development
+
+---
+
+## 📫 How to reach me:
 
 ✉️ **Email:** martybenjamin75@gmail.com
 
