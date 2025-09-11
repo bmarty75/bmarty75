@@ -32,7 +32,7 @@ Welcome to my GitHub profile! 🚀 I'm a computer science student with a passion
 
 💻 **Languages:** Python, Java, C, HTML/CSS
 
-🛠️ **Tools:** Git, VS Code, Eclipse
+🛠️ **Tools:** Git, VS Code, Eclipse,intelliJ
 
 **Other:** SQL, PostgreSQL, JavaFX, Kathará, Linux  
 
