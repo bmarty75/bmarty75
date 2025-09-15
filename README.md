@@ -19,8 +19,12 @@ Welcome to my GitHub profile! 🚀 I'm a computer science student with a passion
 **Here are some highlights from my portfolio:**
 
 - 📂 **Multigaming(#):** The project consists in making several games, all accessible from a menu with a score display for each game.
+ 
 - 📂 **Jeux Latice(#):** The project consists of creating a Hawaiian board game, initially in a console version, and then converting it to a JavaFX version.
+-  🔗 [Voir le projet sur GitHub](https://github.com/bmarty75/projet-latice)
+   
 - 📂 **Network Project with Kathará(#):** Simulation of a network with subnets and services (DHCP, DNS, FTP, SSH) with traffic analysis using Wireshark.
+  
 - 📂 **Database Visualization(#):** SQL queries, data analysis, and graphical representation.
  
 
