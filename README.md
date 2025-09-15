@@ -21,12 +21,14 @@ Welcome to my GitHub profile! 🚀 I'm a computer science student with a passion
 - 📂 **Multigaming(#):** The project consists in making several games, all accessible from a menu with a score display for each game.
  
 - 📂 **Jeux Latice(#):** The project consists of creating a Hawaiian board game, initially in a console version, and then converting it to a JavaFX version.
--  🔗 [Voir le projet sur GitHub](https://github.com/bmarty75/projet-latice)
+🔗 [Jeux Latice sur GitHub](https://github.com/bmarty75/projet-latice)
    
 - 📂 **Network Project with Kathará(#):** Simulation of a network with subnets and services (DHCP, DNS, FTP, SSH) with traffic analysis using Wireshark.
   
 - 📂 **Database Visualization(#):** SQL queries, data analysis, and graphical representation.
- 
+
+- 📂 **ERP Formation(#):** ERP Formation is a software designed to automate and simplify the management of training-related documents and processes.
+ 🔗 [ERP Formation sur GitHub](https://github.com/bmarty75/SAE-Centre-formation.git)
 
 - 🔍 More coming soon! 
 
