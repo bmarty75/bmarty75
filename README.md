@@ -30,6 +30,9 @@ Welcome to my GitHub profile! 🚀 I'm a computer science student with a passion
 - 📂 **ERP Formation(#):** ERP Formation is a software designed to automate and simplify the management of training-related documents and processes.
  🔗 [ERP Formation](https://github.com/bmarty75/SAE-Centre-formation.git)
 
+- 📂 **soccer goal scorer prediction:** Streamlit application for analyzing and predicting the performance of soccer strikers
+ 🔗 [soccer goal scorer prediction](https://github.com/bmarty75/football-buteurs-prediction)
+
 - 🔍 More coming soon! 
 
 ---
