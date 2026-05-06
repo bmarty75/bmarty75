@@ -33,7 +33,7 @@ Docker · Docker Compose · Git / GitHub · Linux · Nginx · IntelliJ · VS Cod
 Application de gestion développée en équipe de 5 personnes pour la gestion des dossiers et processus liés à un centre de formation. Déployée sur le serveur Linux de l'université.
 
 **Stack :** Java 21, Spring Boot 3, Spring Security (JWT), JPA / Hibernate, PostgreSQL, Vue.js, Docker, Nginx
-🔗 [SAE-Centre-formation](https://github.com/bmarty75/SAE-Centre-formation)
+🔗 [SAE-Centre-formation](https://github.com/MalikMoussaoui/SAE_ERP)
 
 ### 🎮 Jeu Latice — Plateau hawaïen
 Adaptation du jeu de plateau Latice : version console puis interface graphique JavaFX. Architecture orientée objet modélisée en UML.
