@@ -1,62 +1,69 @@
-🌟 Hi, I'm bmarty75 !
+## 👋 Bonjour, je suis Benjamin
 
+**Étudiant en BUT Informatique à l'IUT du Limousin** — actuellement en 2ème année, à la recherche d'une **alternance de 12 mois pour septembre 2026** sur Limoges et le Limousin.
 
-Welcome to my GitHub profile! 🚀 I'm a computer science student with a passion for programming. Here's a quick introduction to who I am and what I like to do.
+🎯 Profil développement, orientation back-end · Java / Spring Boot · curieux de l'écosystème DevOps, des projets industriels et de la data / IA.
 
----
-
-## ✨ Who Am I?
-
-- 🧑‍💻 **Etudiant:** University of Limoges
-- 🌍 **Location:** Limoges, France
-- 🎨 **Hobbies:** Football, Gaming, Cinema
-- 🌱 **Learning:** Currently diving deeper into Informatique .
+📍 Limoges, France
 
 ---
 
-## 📖 My Projects
+## 🛠️ Stack technique
 
-**Here are some highlights from my portfolio:**
+**Langages**
+Java · Python · JavaScript · PHP · SQL
 
-- 📂 **Multigaming(#):** The project consists in making several games, all accessible from a menu with a score display for each game.
- 
-- 📂 **Jeux Latice(#):** The project consists of creating a Hawaiian board game, initially in a console version, and then converting it to a JavaFX version.
-🔗 [Jeux Latice](https://github.com/bmarty75/projet-latice)
-   
-- 📂 **Network Project with Kathará(#):** Simulation of a network with subnets and services (DHCP, DNS, FTP, SSH) with traffic analysis using Wireshark.
-  
-- 📂 **Database Visualization(#):** SQL queries, data analysis, and graphical representation.
+**Back-end**
+Spring Boot · Spring Security (JWT) · JPA / Hibernate · Flyway · API REST
 
-- 📂 **ERP Formation(#):** ERP Formation is a software designed to automate and simplify the management of training-related documents and processes.
- 🔗 [ERP Formation](https://github.com/bmarty75/SAE-Centre-formation.git)
+**Front-end**
+Vue.js · HTML / CSS
 
-- 📂 **soccer goal scorer prediction:** Streamlit application for analyzing and predicting the performance of soccer strikers
- 🔗 [soccer goal scorer prediction](https://github.com/bmarty75/football-buteurs-prediction)
+**Bases de données**
+PostgreSQL · MySQL
 
-- 🔍 More coming soon! 
+**DevOps & Outils**
+Docker · Docker Compose · Git / GitHub · Linux · Nginx · IntelliJ · VS Code
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📂 Projets en vedette
 
-💻 **Languages:** Python, Java, C, HTML/CSS
+### 🏛️ ERP Universitaire — IUT du Limousin
+Application de gestion développée en équipe de 5 personnes pour la gestion des dossiers et processus liés à un centre de formation. Déployée sur le serveur Linux de l'université.
 
-🛠️ **Tools:** Git, VS Code, Eclipse,intelliJ
+**Stack :** Java 21, Spring Boot 3, Spring Security (JWT), JPA / Hibernate, PostgreSQL, Vue.js, Docker, Nginx
+🔗 [SAE-Centre-formation](https://github.com/bmarty75/SAE-Centre-formation)
 
-**Other:** SQL, PostgreSQL, JavaFX, Kathará, Linux  
+### ⚽ Football — Prédiction de performance des buteurs
+Application Streamlit d'analyse et de prédiction des performances des attaquants de football, exploitation de données statistiques et modèles prédictifs.
 
-📚 **Interests:** AI, Game Dev, Web Development
+**Stack :** Python, Streamlit
+🔗 [football-buteurs-prediction](https://github.com/bmarty75/football-buteurs-prediction)
+
+### 🎮 Jeu Latice — Plateau hawaïen
+Adaptation du jeu de plateau Latice : version console puis interface graphique JavaFX. Architecture orientée objet modélisée en UML.
+
+**Stack :** Java, JavaFX
+🔗 [projet-latice](https://github.com/bmarty75/projet-latice)
+
+### 🌐 Simulation réseau avec Kathará
+Conception et déploiement d'un réseau d'entreprise simulé : sous-réseaux, services (DHCP, DNS, FTP, SSH), analyse du trafic avec Wireshark.
+
+**Stack :** Kathará, Linux
+
+### 🎲 Plateforme de mini-jeux
+Conception et développement collaboratif d'une plateforme hébergeant plusieurs jeux interactifs, avec menu central et système de scores.
+
+**Stack :** Python
 
 ---
 
-## 📫 How to reach me:
+## 📫 Me contacter
 
-✉️ **Email:** martybenjamin75@gmail.com
+- 📧 [benjamin.marty1@etu.unilim.fr](mailto:benjamin.marty1@etu.unilim.fr)
+- 💼 [LinkedIn — benjamin-marty-info](https://linkedin.com/in/benjamin-marty-info)
 
 ---
-<!---
-bmarty75/bmarty75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-**Let's build amazing things together !**
+⭐ Ouvert à toute opportunité d'**alternance** dans le développement logiciel sur Limoges et le Limousin.
