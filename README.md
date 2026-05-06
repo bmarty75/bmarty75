@@ -35,12 +35,6 @@ Application de gestion développée en équipe de 5 personnes pour la gestion de
 **Stack :** Java 21, Spring Boot 3, Spring Security (JWT), JPA / Hibernate, PostgreSQL, Vue.js, Docker, Nginx
 🔗 [SAE-Centre-formation](https://github.com/bmarty75/SAE-Centre-formation)
 
-### ⚽ Football — Prédiction de performance des buteurs
-Application Streamlit d'analyse et de prédiction des performances des attaquants de football, exploitation de données statistiques et modèles prédictifs.
-
-**Stack :** Python, Streamlit
-🔗 [football-buteurs-prediction](https://github.com/bmarty75/football-buteurs-prediction)
-
 ### 🎮 Jeu Latice — Plateau hawaïen
 Adaptation du jeu de plateau Latice : version console puis interface graphique JavaFX. Architecture orientée objet modélisée en UML.
 
