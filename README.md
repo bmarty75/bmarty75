@@ -1,6 +1,6 @@
 ## 👋 Bonjour, je suis Benjamin
 
-**Étudiant en BUT Informatique à l'IUT du Limousin** — actuellement en 2ème année, à la recherche d'une **alternance de 12 mois pour septembre 2026** sur Limoges et le Limousin.
+**Étudiant en BUT Informatique à l'IUT du Limousin** — actuellement en 3ème année, en alternance de 12 mois sur Limoges.
 
 🎯 Profil développement, orientation back-end · Java / Spring Boot · curieux de l'écosystème DevOps, des projets industriels et de la data / IA.
 
@@ -60,4 +60,4 @@ Conception et développement collaboratif d'une plateforme hébergeant plusieurs
 
 ---
 
-⭐ Ouvert à toute opportunité d'**alternance** dans le développement logiciel sur Limoges et le Limousin.
+⭐ Ouvert à toute opportunité dans le développement logiciel.
