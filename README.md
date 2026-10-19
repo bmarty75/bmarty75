@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Benjamin%20Marty&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20logiciel%20%C2%B7%20BUT%20Informatique&descAlignY=56&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=560&lines=Étudiant+en+BUT+Informatique+(3e+année);Alternant+développeur+à+Limoges;Curieux+de+DevOps+et+de+data+%2F+IA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=560&lines=%C3%89tudiant+en+BUT+Informatique+%283e+ann%C3%A9e%29;Alternant+d%C3%A9veloppeur+%C3%A0+Limoges;Curieux+de+DevOps+et+de+data+%2F+IA" />
 
 <br/>
 
