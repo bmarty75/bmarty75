@@ -21,7 +21,7 @@
 🎯 Profil développement, orientation back-end · Java / Spring Boot · curieux de l'écosystème DevOps, des projets industriels et de la data / IA.
 
 - 🏭 **En ce moment :** alternant développeur dans une entreprise industrielle
-- 🔭 **Projet perso :** [PikaFlip](https://github.com/bmarty75/pikaflip)
+- 🔭 **Projet perso :** [KiraFlip](https://github.com/bmarty75/kiraflip)
 - 🌱 **J'apprends :** le machine learning (apprentissage supervisé, traitement de données)
 - 🚀 **Objectif :** devenir ML Engineer
 
@@ -74,15 +74,6 @@ Conception et déploiement d'un réseau d'entreprise simulé : sous-réseaux, se
 Plateforme développée en équipe qui regroupe plusieurs jeux interactifs, avec un menu central et un système de scores.
 
 `Python`
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bmarty75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=bmarty75&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
