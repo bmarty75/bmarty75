@@ -23,7 +23,7 @@
 - 🏭 **En ce moment :** alternant développeur dans une entreprise industrielle
 - 🔭 **Projet perso :** [PikaFlip](https://github.com/bmarty75/pikaflip)
 - 🌱 **J'apprends :** le machine learning (apprentissage supervisé, traitement de données)
-- 🚀 **Objectif :** devenir ingénieur en IA
+- 🚀 **Objectif :** devenir ML Engineer
 
 ---
 
@@ -51,24 +51,19 @@
 
 ## 📂 Projets en vedette
 
-<p align="center">
-  <a href="https://github.com/MalikMoussaoui/SAE_ERP">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=MalikMoussaoui&repo=SAE_ERP&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/bmarty75/projet-latice">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bmarty75&repo=projet-latice&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ### 🏛️ ERP universitaire (IUT du Limousin)
 Application de gestion des dossiers et des processus d'un centre de formation, développée en équipe de 5. Elle est déployée sur le serveur Linux de l'université.
 
 `Java 21` `Spring Boot 3` `Spring Security (JWT)` `JPA / Hibernate` `PostgreSQL` `Vue.js` `Docker` `Nginx`
 
+🔗 [SAE_ERP](https://github.com/MalikMoussaoui/SAE_ERP)
+
 ### 🎮 Latice, jeu de plateau hawaïen
 Adaptation du jeu de plateau Latice, d'abord en console puis avec une interface graphique JavaFX. L'architecture orientée objet a été modélisée en UML.
 
 `Java` `JavaFX` `UML`
+
+🔗 [projet-latice](https://github.com/bmarty75/projet-latice)
 
 ### 🌐 Simulation réseau avec Kathará
 Conception et déploiement d'un réseau d'entreprise simulé : sous-réseaux, services (DHCP, DNS, FTP, SSH) et analyse du trafic avec Wireshark.
