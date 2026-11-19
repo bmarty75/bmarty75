@@ -51,12 +51,29 @@
 
 ## 📂 Projets en vedette
 
+### 🃏 KiraFlip, tracker d'achat-revente de cartes Pokémon et One Piece
+Projet personnel développé seul, à partir de ma propre activité de revente. Site web et application iOS (disponible sur l'App Store) pour suivre son stock, ses ventes et ses bénéfices, avec une cote du marché mise à jour automatiquement pour chaque carte ou produit scellé, en 8 langues. Une extension Chrome pré-remplit aussi les annonces Vinted, Leboncoin et eBay.
+
+`JavaScript` `Node.js` `Firebase` `Capacitor` `Playwright` `Vercel`
+
+🔗 [kiraflip.com](https://www.kiraflip.com)
+
+### ⚽ Prédiction de résultats sportifs (en cours)
+Projet personnel en Python pour prédire les résultats de matchs de football et d'autres sports. Pour le football, le modèle estime les buts attendus de chaque équipe avec une loi de Poisson, à partir de ses forces d'attaque et de défense.
+
+`Python` `Modélisation statistique`
+
 ### 🏛️ ERP universitaire (IUT du Limousin)
-Application de gestion des dossiers et des processus d'un centre de formation, développée en équipe de 5. Elle est déployée sur le serveur Linux de l'université.
+Application de gestion des dossiers et des processus d'un centre de formation, développée en équipe de 5. Elle est accessible sur un serveur Linux de l'université (hors production).
 
 `Java 21` `Spring Boot 3` `Spring Security (JWT)` `JPA / Hibernate` `PostgreSQL` `Vue.js` `Docker` `Nginx`
 
 🔗 [SAE_ERP](https://github.com/MalikMoussaoui/SAE_ERP)
+
+### 📅 unilim-edt, générateur d'emplois du temps
+Projet de SAÉ en équipe de 4 : reprise et poursuite d'une application existante qui génère les emplois du temps des BUT 1, 2 et 3 du département, avec saisie des contraintes, édition manuelle et export des heures des enseignants.
+
+`Laravel` `PHP` `Vue.js` `Inertia` `Tailwind` `MariaDB` `Docker`
 
 ### 🎮 Latice, jeu de plateau hawaïen
 Adaptation du jeu de plateau Latice, d'abord en console puis avec une interface graphique JavaFX. L'architecture orientée objet a été modélisée en UML.
@@ -64,16 +81,6 @@ Adaptation du jeu de plateau Latice, d'abord en console puis avec une interface 
 `Java` `JavaFX` `UML`
 
 🔗 [projet-latice](https://github.com/bmarty75/projet-latice)
-
-### 🌐 Simulation réseau avec Kathará
-Conception et déploiement d'un réseau d'entreprise simulé : sous-réseaux, services (DHCP, DNS, FTP, SSH) et analyse du trafic avec Wireshark.
-
-`Kathará` `Linux` `Wireshark`
-
-### 🎲 Plateforme de mini-jeux
-Plateforme développée en équipe qui regroupe plusieurs jeux interactifs, avec un menu central et un système de scores.
-
-`Python`
 
 ---
 
