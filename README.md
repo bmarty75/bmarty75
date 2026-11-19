@@ -73,7 +73,7 @@ Application de gestion des dossiers et des processus d'un centre de formation, d
 
 <br>
 
-https://github.com/user-attachments/assets/d8b9eade-4670-4b52-9a10-b5b0f58de88c
+https://github.com/user-attachments/assets/6c7dace1-9d6b-448b-9a4c-0210410778eb
 
 <p align="center">
   <img src="assets/erp/1-liste-fiches-ressources.png" width="49%" alt="Liste des fiches ressources" />
