@@ -90,6 +90,8 @@ Projet de SAÉ en équipe de 4 : reprise et poursuite d'une application existant
 
 `Laravel` `PHP` `Vue.js` `Inertia` `Tailwind` `MariaDB` `Docker`
 
+🔗 [unilim-edt](https://github.com/rbastide/unilim-edt)
+
 ### 🎮 Latice, jeu de plateau hawaïen
 Adaptation du jeu de plateau Latice, d'abord en console puis avec une interface graphique JavaFX. L'architecture orientée objet a été modélisée en UML.
 
