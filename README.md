@@ -18,7 +18,7 @@
 
 **Étudiant en BUT Informatique à l'IUT du Limousin.** Je suis actuellement en 3e année, en alternance de 12 mois à Limoges.
 
-🎯 Profil développement, orientation back-end · Java / Spring Boot · curieux de l'écosystème DevOps, des projets industriels et de la data / IA.
+🎯 Développeur polyvalent, du besoin métier jusqu'au déploiement · curieux de l'écosystème DevOps, des projets industriels et de la data / IA.
 
 - 🏭 **En ce moment :** alternant développeur dans une entreprise industrielle
 - 🔭 **Projet perso :** [KiraFlip](https://github.com/bmarty75/kiraflip)
