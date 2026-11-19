@@ -23,7 +23,7 @@
 - 🏭 **En ce moment :** alternant développeur dans une entreprise industrielle
 - 🔭 **Projet perso :** [KiraFlip](https://github.com/bmarty75/kiraflip)
 - 🌱 **J'apprends :** le machine learning (apprentissage supervisé, traitement de données)
-- 🚀 **Objectif :** devenir ML Engineer
+- 🚀 **Objectif :** devenir ingénieur en IA
 
 ---
 
