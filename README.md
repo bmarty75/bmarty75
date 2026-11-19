@@ -68,8 +68,6 @@ Application de gestion des dossiers et des processus d'un centre de formation, d
 
 `Java 21` `Spring Boot 3` `Spring Security (JWT)` `JPA / Hibernate` `PostgreSQL` `Vue.js` `Docker` `Nginx`
 
-🔗 [SAE_ERP](https://github.com/MalikMoussaoui/SAE_ERP)
-
 ### 📅 unilim-edt, générateur d'emplois du temps
 Projet de SAÉ en équipe de 4 : reprise et poursuite d'une application existante qui génère les emplois du temps des BUT 1, 2 et 3 du département, avec saisie des contraintes, édition manuelle et export des heures des enseignants.
 
