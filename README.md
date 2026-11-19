@@ -68,6 +68,23 @@ Application de gestion des dossiers et des processus d'un centre de formation, d
 
 `Java 21` `Spring Boot 3` `Spring Security (JWT)` `JPA / Hibernate` `PostgreSQL` `Vue.js` `Docker` `Nginx`
 
+<details>
+<summary>🎬 Voir la démo et les captures d'écran</summary>
+
+<br>
+
+https://github.com/user-attachments/assets/d8b9eade-4670-4b52-9a10-b5b0f58de88c
+
+<p align="center">
+  <img src="assets/erp/1-liste-fiches-ressources.png" width="49%" alt="Liste des fiches ressources" />
+  <img src="assets/erp/2-fiche-ressource.png" width="49%" alt="Saisie d'une fiche ressource" />
+  <img src="assets/erp/3-liste-mccc.png" width="49%" alt="Liste des MCCC" />
+  <img src="assets/erp/4-parametrage-formation.png" width="49%" alt="Paramétrage de la formation" />
+  <img src="assets/erp/5-api-swagger.png" width="98%" alt="Documentation de l'API REST (Swagger)" />
+</p>
+
+</details>
+
 ### 📅 unilim-edt, générateur d'emplois du temps
 Projet de SAÉ en équipe de 4 : reprise et poursuite d'une application existante qui génère les emplois du temps des BUT 1, 2 et 3 du département, avec saisie des contraintes, édition manuelle et export des heures des enseignants.
 
